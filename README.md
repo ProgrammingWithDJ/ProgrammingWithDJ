@@ -3,9 +3,8 @@
 
 
 - 🔭 I’m currently working as Developer Support Engineer for MS Graph API at Microsoft.
-- 🌱 I’m currently learning Azure PAAS services.
-- 👯 I’m looking to collaborate on MS graph API and Azure.
-- 🤔 I’m looking for help with my learning journey
+- 🌱 I’m currently learning Azure PAAS services..
+- 👯 I’m looking to meet and enagage with new folks.
 - 💬 Ask me about MS Graph and Dot net core.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/dipesh-jadhav-a225b2139/)
 - 😄 Pronouns: Deepesh.
