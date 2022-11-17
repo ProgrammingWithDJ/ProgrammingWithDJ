@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as Developer Support Engineer for MS Graph API at Microsoft.
+
 - 🌱 I’m currently learning Azure PAAS services..
 - 👯 I’m looking to meet and enagage with new folks.
 - 💬 Ask me about MS Graph and Dot net core.
