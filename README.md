@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Azure PAAS services..
+- 🌱 I’m currently learning new Azure services..
 - 👯 I’m looking to meet and enagage with new folks.
 - 💬 Ask me about MS Graph and Dot net core.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/dipesh-jadhav-a225b2139/)
