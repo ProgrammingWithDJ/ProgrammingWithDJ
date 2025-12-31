@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎥 I teach Graph API on **[YouTube](https://youtube.com/@graphexplorer)**  
+- 🎥 I teach Graph API on **[YouTube](https://youtube.com/@microsoftgraphExplorer)**  
 - 💻 Passionate about building fullstack apps with **React**, **Angular**, **Dot net**, **TypeScript**, and **Azure**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
